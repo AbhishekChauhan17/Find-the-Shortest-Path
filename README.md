@@ -1,5 +1,5 @@
 # Find-the-Path
-Find path using the Genetic Algorithm
+Find path using the Genetic Algorithm in this project.
 <br>
 How the interface looks : 
 
